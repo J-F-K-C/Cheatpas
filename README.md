@@ -37,7 +37,7 @@ You may edit the config or copy it to your home directory for user-specific cust
 
 Clone the repository and compile with Free Pascal Compiler:
 
-git clone https://github.com/YOUR_USERNAME/cheatpas.git
+git clone https://github.com/J-F-K-C/cheatpas.git
 cd cheatpas/src
 fpc cheatpas.pas
 sudo mv cheatpas /usr/local/bin/
