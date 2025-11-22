@@ -201,7 +201,7 @@ begin
     SearchCheats(CFG.CheatDir, ParamStr(2), CFG.Color)
   else
   begin
-    WriteLn('Verwendung:');
+    WriteLn('Usage:');
     WriteLn('  cheatpas list');
     WriteLn('  cheatpas show <name>');
     WriteLn('  cheatpas new <name>');

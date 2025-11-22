@@ -1,7 +1,7 @@
 # Cheatpas
 
 
-**cheatpas** is a lightweight, fast, and user-friendly CLI tool for managing and viewing cheatsheets. Written in Pascal, it serves as a modern addition to `man` pages, focusing on quick examples and easy access to common commands or undocumented software (e.g. proprietary software)
+**cheatpas** is a lightweight, fast, and user-friendly CLI tool for managing and viewing cheatsheets. Written in Pascal, it serves as a modern addition to `man` pages, focusing on quick examples and easy access to common commands or undocumented software (e.g. proprietary software).
 
 ---
 
