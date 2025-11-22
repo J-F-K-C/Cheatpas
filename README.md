@@ -63,16 +63,16 @@ color=true
 
 ### Usage
 
-# List all available cheatsheets
+* List all available cheatsheets
 cheatpas list
 
-# Show a specific cheatsheet
+* Show a specific cheatsheet
 cheatpas show <cheatsheet_name>
 
-# Create a new cheatsheet
+* Create a new cheatsheet
 cheatpas new <cheatsheet_name>
 
-# Search inside all cheatsheets
+* Search inside all cheatsheets
 cheatpas search <text>
 
 ### Cheatsheet Format
