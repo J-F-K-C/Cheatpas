@@ -20,10 +20,11 @@
 
 ### From Debian Package
 
-Download the latest `.deb` from the [Releases](https://github.com/YOUR_USERNAME/cheatpas/releases) page and install:
+Download the latest `.deb` from the [Releases](https://github.com/J-F-K-C/cheatpas/releases) page and install:
 
 ```bash
 sudo dpkg -i cheatpas_1.0-1.deb
+```
 
 This installs:
 
