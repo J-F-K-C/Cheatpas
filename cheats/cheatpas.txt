@@ -1,0 +1,6 @@
+Use:
+  cheatpas                 - list cheatsheets
+  cheatpas show <name>     - show cheatsheet
+  cheatpas new <name>      - create/edit cheatsheet
+  cheatpas search <text>   - search in all cheatsheets for string
+

@@ -1,0 +1,10 @@
+Package: cheatpas
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends:
+Maintainer: Jan Kemper
+Description: A cheatsheet CLI tool written in Pascal.
+ A simple, fast CLI tool to manage and display cheatsheets.
+ Installed under /usr/local/bin.
