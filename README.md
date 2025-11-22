@@ -81,9 +81,11 @@ Each cheatsheet is a plain text file with .txt extension
 
 Recommended format:
 
+```
 # Title or command
 Description or examples
 Usage examples
+```
 
 Store them in your configured cheat_dir (default ~/cheats)
 
