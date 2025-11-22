@@ -1,0 +1,46 @@
+# ------------------------------
+# Free Pascal / Lazarus
+# ------------------------------
+*.ppu
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+*.a
+*.lpi
+*.lpr
+*.lps
+*.compiled
+
+# ------------------------------
+# Build folders
+# ------------------------------
+build/
+release_binaries/
+*.deb
+
+# ------------------------------
+# User-specific config / temp
+# ------------------------------
+*.bak
+*~
+*.swp
+*.swo
+*.tmp
+*.old
+
+# ------------------------------
+# IDE / Editor files
+# ------------------------------
+.idea/
+.vscode/
+*.log
+
+# ------------------------------
+# OS-specific files
+# ------------------------------
+.DS_Store
+Thumbs.db
