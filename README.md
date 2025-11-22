@@ -89,13 +89,13 @@ Store them in your configured cheat_dir (default ~/cheats)
 
 ### Example
 
-# Create a new cheatsheet for 'git'
+*  Create a new cheatsheet for 'git'
 cheatpas new git
 
-# Show it
+* Show it
 cheatpas show git
 
-# Search all cheatsheets for 'ssh'
+* Search all cheatsheets for 'ssh'
 cheatpas search ssh
 
 Contributing
