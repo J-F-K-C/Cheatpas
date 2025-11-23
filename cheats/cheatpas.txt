@@ -1,6 +1,9 @@
-Use:
-  cheatpas                 - list cheatsheets
-  cheatpas show <name>     - show cheatsheet
-  cheatpas new <name>      - create/edit cheatsheet
-  cheatpas search <text>   - search in all cheatsheets for string
+Usage: cheatpas <command> [sheet_name]
 
+Commands:
+  list                List all cheatsheets
+  show <name>         Show a cheatsheet
+  new <name>          Create a new cheatsheet
+  edit <name>         Edit an existing cheatsheet
+  delete <name>       Delete a cheatsheet
+  search <text>       Search inside all cheatsheets
