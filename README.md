@@ -23,7 +23,7 @@
 Download the latest `.deb` from the [Releases](https://github.com/J-F-K-C/cheatpas/releases) page and install:
 
 ```bash
-sudo dpkg -i cheatpas_1.0-1.deb
+sudo dpkg -i cheatpas.deb
 ```
 
 This installs:
