@@ -11,7 +11,7 @@
 - Quickly list, view, search, or create new cheatsheets
 - Colorized output for better readability (optional)
 - Configurable editor and cheatsheet directory via a simple Conf file
-- Cross-platform support (Linux, potentially other Unix-systems with some modifications)
+- Cross-platform support
 - Simple `.deb` package for easy Debian installation
 
 ---
