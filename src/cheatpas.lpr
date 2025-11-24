@@ -85,7 +85,6 @@ begin
   Rewrite(f);
   CloseFile(f);
 
-  // Editor starten
   {$IFDEF UNIX}
   fpSystem(editor + ' ' + path);
   {$ELSE}
