@@ -49,11 +49,12 @@ sudo mv cheatpas /usr/local/bin/
 or, by default, /etc/cheatpas/config.conf for system-wide use.
 
 Example config.conf:
-
+```
 [cheatpas]
 cheat_dir=/home/USER/cheats
 editor=nano
 color=true
+```
 
 * cheat_dir: folder where your cheatsheets are stored
 
