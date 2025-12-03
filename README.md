@@ -93,17 +93,17 @@ Store them in your configured cheat_dir (default ~/cheats)
 ### Example
 
 *  Create a new cheatsheet for 'git'
-cheatpas new git
+```cheatpas new git```
 
 * Show it
-cheatpas show git
+```cheatpas show git```
 
 * Search all cheatsheets for 'ssh'
-cheatpas search ssh
+```cheatpas search ssh```
 
-Contributing
+### Contributing
 
-### Contributions are welcome!
+Contributions are welcome!
 
 Fork the repository
 
